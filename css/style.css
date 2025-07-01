@@ -328,6 +328,7 @@ a:focus {
 
 .about_section .detail_box p {
   margin: 35px 0;
+  text-align: justify;
 }
 
 .about_section .img-box img {
