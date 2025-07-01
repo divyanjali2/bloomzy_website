@@ -2,6 +2,8 @@
 
 A modern and elegant website for a flower shop/florist business. The website features a responsive design, beautiful galleries, and multiple pages to showcase floral arrangements and services.
 
+🔗 **Live Demo:** [https://bloomzy.vercel.app/](https://bloomzy.vercel.app/)
+
 ## ✨ Features
 
 - Responsive design that works on desktop and mobile devices
